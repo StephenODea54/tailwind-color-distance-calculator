@@ -1,6 +1,6 @@
 ## TailwindCSS Color Distance Calculator
 
-One of the most annoying things about designing a frontend (especially if you are overly left-brained like me) is nitpicking the css to create the perfect sizes, colors, spacing, etc for an element in your UI. This is annoying, since painfully trialing arbitrary values a few pixels at a time will not only slow you down, but it has the potential to create inconsisten and ugly designs.
+One of the most annoying things about designing a frontend (especially if you are overly left-brained like me) is nitpicking the css to create the perfect sizes, colors, spacing, etc for an element in your UI. This is annoying, since painfully trialing arbitrary values a few pixels at a time will not only slow you down, but it has the potential to create inconsistent and ugly designs.
 
 One of the best things about [Tailwind](https://tailwindcss.com/) is its design system. Out of the box, their design system constrains their users to a prespecified set of values. Now don't get me wrong, it is definitely possible to create an "inconsistent" design in Tailwind, but those are usually attributed to using these guys: `[]`.
 
