@@ -58,7 +58,7 @@ const App = () => {
             !determineValidHex(colorInput) ?
 
             <Fragment>
-              Awaiting 6 character hex input...
+              Awaiting 6 character hex input.......
             </Fragment> :
 
             colorsCalcArr.slice(0, 10).map(color => (

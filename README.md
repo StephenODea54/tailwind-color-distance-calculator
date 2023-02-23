@@ -12,7 +12,7 @@ The algorithm used to determine the similarity between the colors is based on th
 
 The application is currently hosted on [Netlify](https://app.netlify.com/) and you may visit it online at [https://tailwind-color-distance-calculator.netlify.app/](https://tailwind-color-distance-calculator.netlify.app/).
 
-## Project Screen Shot(s)
+## Project Screen Shot
 
 ![Project Screenshot](ApplicationScreenshot.png)
 

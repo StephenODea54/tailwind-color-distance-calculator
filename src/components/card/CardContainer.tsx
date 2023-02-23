@@ -4,7 +4,7 @@ interface ICardContainer {
 
 export const CardContainer = ({ children }: ICardContainer) => {
   return(
-    <div className="flex space-x-8 mb-4">
+    <div className="flex space-x-8">
       {children}
     </div>
   );

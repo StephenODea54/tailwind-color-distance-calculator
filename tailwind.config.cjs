@@ -4,6 +4,12 @@ module.exports = {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  theme: {},
+  theme: {
+    extend: {
+      fontFamily: {
+        'proxima-nova-regular': ['ProximaNovaRegular', 'sans-serif'],
+      },
+    },
+  },
   plugins: [],
 }

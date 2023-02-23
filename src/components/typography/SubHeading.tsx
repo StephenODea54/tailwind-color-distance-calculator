@@ -4,8 +4,8 @@ interface ISubHeading {
 
 export const SubHeading = ({ children }: ISubHeading) => {
   return(
-    <h2 className="text-2xl text-left text-white leading-10 tracking-tight text-slate-900 mb-4">
+    <h3 className="text-lg font-semibold text-white">
       {children}
-    </h2>
+    </h3>
   );
 };

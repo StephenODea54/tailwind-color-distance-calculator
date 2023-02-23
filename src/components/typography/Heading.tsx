@@ -4,7 +4,7 @@ interface IHeading {
 
 export const Heading = ({ children }: IHeading) => {
   return(
-    <div className="mt-16 flex justify-center items-center space-x-4">
+    <div className="mb-6 flex justify-center items-center space-x-4">
       <img
         src="/tailwindLogo.png"
         alt="Tailwind Logo"

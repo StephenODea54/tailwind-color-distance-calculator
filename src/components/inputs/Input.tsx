@@ -8,7 +8,7 @@ interface IInput {
 export const Input = ({ label, onChange, readOnly, value }: IInput) => {
 
   return(
-    <div>
+    <div className="mt-4">
       <label
         htmlFor="inputHexValue"
         className="block text-md font-medium text-white text-left leading-8 mb-2"
